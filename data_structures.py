@@ -1,9 +1,9 @@
+def add_break():
+    print("\n====================\n")
+
 # Learning tuples!
 
 # https://docs.python.org/3/tutorial/datastructures.html
-
-def add_break():
-    print("\n====================\n")
 
 ###############################################################################
 # TUPLES
@@ -59,6 +59,7 @@ d[0] = 1
 print("d and e again after changing first element of d\n")
 print("d:", d, sep=" ")
 print("e:", e, sep=" ")
+
 add_break()
 
 
